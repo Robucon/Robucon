@@ -8,3 +8,4 @@ Here are some of the languages / frameworks I currently develop in 🔭:
 * HTML5/CSS3/Javascript
 * ASP.NET (WebForms/MVC)
 * Xamarin.Android
+* Go (recently learning)
